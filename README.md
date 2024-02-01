@@ -1,8 +1,3 @@
-
-
-# GitHub Copilot - Quickstart Guide
-
-
 # Summary
 
 Resource for getting started with GitHub Copilot and GitHub Copilot Chat.
