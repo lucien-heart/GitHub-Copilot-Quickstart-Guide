@@ -8,21 +8,20 @@ Getting started with GitHub Copilot and GitHub Copilot Chat.
 
 * [Copilot Feature Page](https://github.com/features/copilot)
 * [GitHub Copilot Documentation](https://docs.github.com/en/copilot)
-* [Use-Cases for Copilot Chat](https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat#use-cases-for-github-copilot-chat)
 
 
 ## Videos
 
 **Copilot (Code Completions)**
 
-* “[Coding with an AI pair programmer: Getting started with GitHub Copilot](https://youtu.be/dhfTaSGYQ4o?si=OYPJSqkwKumtjdSc)” (30 min)
-* [All GitHub YouTube Videos related to Copilot](https://www.youtube.com/@GitHub/search?query=Copilot)
-* [More Copilot Videos](https://www.youtube.com/@code/search?query=copilot)
+* “[Getting started with GitHub Copilot](https://youtu.be/dhfTaSGYQ4o?si=OYPJSqkwKumtjdSc)” (30 min)
+* [GitHub's YouTube Page: "Copilot"](https://www.youtube.com/@GitHub/search?query=Copilot)
+* [VS Code's YouTube Page: "Copilot"](https://www.youtube.com/@code/search?query=copilot)
 
 **Copilot Chat**
 
 * “[Getting Started with Copilot Chat](https://youtu.be/3surPGP7_4o?si=qiqzTy7PIiUDuaU_)” (4 min)
-* [All GitHub YouTube videos related to Copilot Chat](https://www.youtube.com/@GitHub/search?query=Copilot%20Chat)
+* [GitHub's YouTube Page: "Copilot Chat"](https://www.youtube.com/@GitHub/search?query=Copilot%20Chat)
 
 **Best Practices**
 
@@ -50,5 +49,5 @@ Getting started with GitHub Copilot and GitHub Copilot Chat.
 
 ## Blog / ChangeLog
 
-* [All Copilot Blog Posts](https://github.blog/tag/github-copilot)
-* [GitHub ChangeLog (Copilot)](https://github.blog/changelog/label/copilot/)
+* [GitHub Blog: "Copilot"](https://github.blog/tag/github-copilot)
+* [GitHub ChangeLog: "Copilot"](https://github.blog/changelog/label/copilot/)
