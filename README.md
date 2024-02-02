@@ -1,6 +1,6 @@
 # Summary
 
-Resource for getting started with GitHub Copilot and GitHub Copilot Chat.
+Getting started with GitHub Copilot and GitHub Copilot Chat.
 
 **Target Audience**: Developers
 
