@@ -1,17 +1,17 @@
-# Summary
+## Summary
 
 Getting started with GitHub Copilot and GitHub Copilot Chat.
 
 **Target Audience**: Developers
 
-# Documentation
+## Documentation
 
 * [Copilot Feature Page](https://github.com/features/copilot)
 * [GitHub Copilot Documentation](https://docs.github.com/en/copilot)
 * [Use-Cases for Copilot Chat](https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat#use-cases-for-github-copilot-chat)
 
 
-# Videos
+## Videos
 
 **Copilot (Code Completions)**
 
@@ -24,12 +24,12 @@ Getting started with GitHub Copilot and GitHub Copilot Chat.
 * “[Getting Started with Copilot Chat](https://youtu.be/3surPGP7_4o?si=qiqzTy7PIiUDuaU_)” (4 min)
 * [All GitHub YouTube videos related to Copilot Chat](https://www.youtube.com/@GitHub/search?query=Copilot%20Chat)
 
-  **Best Practices**
+**Best Practices**
 
 * [Prompting with GitHub Copilot](https://www.youtube.com/watch?v=ImWfIDTxn7E)
 
 
-# Training
+## Training
 
 **Self-Paced Training Resources**
 
@@ -41,14 +41,14 @@ Getting started with GitHub Copilot and GitHub Copilot Chat.
     * [Copilot Patterns (Open Source Project)](https://patterns.hattori.dev/)
 
 
-# Community Discussions
+## Community Discussions
 
 * [GitHub Copilot FAQs + Troubleshooting common issues](https://github.com/orgs/community/discussions/47318)
 * [Getting Started with GitHub Copilot Chat in VSCode](https://github.com/orgs/community/discussions/64517)
 * [Communty Discussions, “Copilot” Category](https://github.com/orgs/community/discussions/categories/copilot)
 
 
-# Blog / ChangeLog
+## Blog / ChangeLog
 
 * [All Copilot Blog Posts](https://github.blog/tag/github-copilot)
 * [GitHub ChangeLog (Copilot)](https://github.blog/changelog/label/copilot/)
