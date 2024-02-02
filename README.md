@@ -24,6 +24,10 @@ Getting started with GitHub Copilot and GitHub Copilot Chat.
 * “[Getting Started with Copilot Chat](https://youtu.be/3surPGP7_4o?si=qiqzTy7PIiUDuaU_)” (4 min)
 * [All GitHub YouTube videos related to Copilot Chat](https://www.youtube.com/@GitHub/search?query=Copilot%20Chat)
 
+  **Best Practices**
+
+* [Prompting with GitHub Copilot](https://www.youtube.com/watch?v=ImWfIDTxn7E)
+
 
 # Training
 
