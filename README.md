@@ -33,6 +33,7 @@ Getting started with GitHub Copilot and GitHub Copilot Chat.
 **Self-Paced Training Resources**
 
 * [GitHub Skills - Copilot using VSCode](https://github.com/skills/copilot-codespaces-vscode)
+* [GitHub Learning Pathways](https://resources.github.com/learn/pathways/?utm_source=Blog&utm_medium=Social&utm_campaign=launch#discover) (Copilot Coming soon)
 * [Microsoft Learn: GitHub Copilot Fundamentals](https://learn.microsoft.com/en-us/training/paths/copilot/) (Learning Path)
     * [Introduction to Prompt Engineering](https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/)
 * **Other Copilot Training Resources**
